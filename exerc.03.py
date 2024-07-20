@@ -30,7 +30,3 @@ while estado_civil not in verificaçao_civil:
     estado_civil = str(input('Digite seu estado civil:'))
 
 print(f'Programa encerrado, os resultados foram {nome}, {idade}, {salario}, {sexo}, {estado_civil}')
-
-
-
-
