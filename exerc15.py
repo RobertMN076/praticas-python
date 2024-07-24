@@ -1,7 +1,6 @@
 
 import random
-# numero = random.randint(1,100)
-numero = int(input("fala ae:"))
+numero = random.randint(1,100)
 antecessor = 0
 sequencia = 1
 
