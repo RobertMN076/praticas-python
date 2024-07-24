@@ -1,3 +1,5 @@
+#Esse enunciado tem um erro.
+
 pais_a = 80000
 pais_b = 200000
 anos = 0
