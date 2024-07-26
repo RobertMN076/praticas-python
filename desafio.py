@@ -10,4 +10,5 @@ elif numero_fornecido>=5 and numero_fornecido<9:
     print('I' *auxiliar)
 elif numero_fornecido == 9:
     print('IX')
-
+elif numero_fornecido>=10 and numero_fornecido <= 39:
+    print()
